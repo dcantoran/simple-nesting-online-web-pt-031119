@@ -65,7 +65,7 @@ def adding_matz
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
 # }
-  response = :yukihiro_matsumoto => {
+  result = :yukihiro_matsumoto => {
     :known_for => "Ruby",
     :languages => ["LISP", "C"]
   }
